@@ -1,0 +1,7 @@
+{
+        "name":"sample",
+        "desc":"Default Project for Xelerate",
+		"filePath": "/sample/sample.json",
+        "type":"APPLICATION",
+        "childs":[]    
+}
