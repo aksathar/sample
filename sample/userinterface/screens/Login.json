@@ -132,7 +132,7 @@
                                     "filter": "N",
                                     "maxWidth": "230",
                                     "lovname": "",
-                                    "id": "imageID",
+                                    "id": "imageIDReplaced",
                                     "visible": "Y"
                                   }
                                 ],
