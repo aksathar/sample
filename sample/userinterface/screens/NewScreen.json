@@ -1,0 +1,36 @@
+{
+  "name": "NewScreen",
+  "type": "SCREEN",
+  "childs": [],
+  "tbId": "wt_tab_049_",
+  "dynamic": {},
+  "dsgnrIdCntr": 0,
+  "header": {
+    "elmId": "header",
+    "childs": [],
+    "dsgnrId": "header",
+    "elmType": "PORTION",
+    "elmSubType": "HEADER"
+  },
+  "sidebar": {
+    "elmId": "sidebar",
+    "childs": [],
+    "dsgnrId": "sidebar",
+    "elmType": "PORTION",
+    "elmSubType": "SIDEBAR"
+  },
+  "body": {
+    "elmId": "body",
+    "dsgnrId": "body",
+    "childs": [],
+    "elmType": "PORTION",
+    "elmSubType": "BODY"
+  },
+  "footer": {
+    "elmId": "footer",
+    "childs": [],
+    "dsgnrId": "footer",
+    "elmType": "PORTION",
+    "elmSubType": "FOOTER"
+  }
+}
