@@ -2,9 +2,9 @@
   "name": "NewScreen",
   "type": "SCREEN",
   "childs": [],
-  "tbId": "wt_tab_017_",
+  "tbId": "wt_tab_065_",
   "dynamic": {},
-  "dsgnrIdCntr": 6,
+  "dsgnrIdCntr": 9,
   "header": {
     "elmId": "header",
     "childs": [],
@@ -29,20 +29,20 @@
         "elmId": "grid",
         "elmType": "GRID",
         "elmSubType": "GRID",
-        "dsgnrId": "wt_tab_017_000000004",
+        "dsgnrId": "wt_tab_065_000000007",
         "childs": [
           {
             "elmId": "cell",
             "elmType": "COMPLEX",
             "elmSubType": "CELL",
-            "dsgnrId": "wt_tab_017_000000005",
+            "dsgnrId": "wt_tab_065_000000008",
             "childs": [
               {
                 "align": "left",
                 "elmId": "badge",
                 "elmType": "SIMPLE",
                 "elmSubType": "BADGE",
-                "dsgnrId": "wt_tab_017_000000006",
+                "dsgnrId": "wt_tab_065_000000009",
                 "childs": [],
                 "label": {
                   "width": {
@@ -55,7 +55,7 @@
                 },
                 "custAttrs": [],
                 "lovname": "",
-                "id": "bdgaSAA",
+                "id": "bdgaSAAcasdd",
                 "editable": "N",
                 "visible": "Y",
                 "bindingType": "oneWay",
@@ -141,7 +141,8 @@
     "borderRadiusTrType": "px",
     "borderRadiusBlType": "px",
     "borderRadiusBrType": "px",
-    "fontSizeCustomType": "px"
+    "fontSizeCustomType": "px",
+    "id": "ASAQ"
   },
   "footer": {
     "elmId": "footer",
