@@ -1,12 +1,12 @@
 {
   "name": "Login",
-  "desc": "Login screen",
+  "desc": "Login Old screen",
   "type": "SCREEN",
   "entities": [],
   "services": [],
   "childs": [],
   "childsMap": {},
-  "dsgnrIdCntr": 524,
+  "dsgnrIdCntr": 467,
   "header": {
     "elmId": "header",
     "childs": [],
@@ -35,7 +35,7 @@
         "elmId": "panel",
         "elmType": "COMPLEX",
         "elmSubType": "PANEL",
-        "dsgnrId": "wt_tab_064_000000506",
+        "dsgnrId": "wt_tab_016_000000449",
         "childs": [
           {
             "rows": [],
@@ -43,25 +43,25 @@
             "elmId": "grid",
             "elmType": "GRID",
             "elmSubType": "GRID",
-            "dsgnrId": "wt_tab_064_000000507",
+            "dsgnrId": "wt_tab_016_000000450",
             "childs": [
               {
                 "elmId": "cell",
                 "elmType": "COMPLEX",
                 "elmSubType": "CELL",
-                "dsgnrId": "wt_tab_064_000000508",
+                "dsgnrId": "wt_tab_016_000000451",
                 "childs": [
                   {
                     "elmId": "panel",
                     "elmType": "COMPLEX",
                     "elmSubType": "PANEL",
-                    "dsgnrId": "wt_tab_064_000000509",
+                    "dsgnrId": "wt_tab_016_000000452",
                     "childs": [
                       {
                         "elmId": "form",
                         "elmType": "COMPLEX",
                         "elmSubType": "FORM",
-                        "dsgnrId": "wt_tab_064_000000510",
+                        "dsgnrId": "wt_tab_016_000000453",
                         "childs": [
                           {
                             "rows": [],
@@ -69,20 +69,20 @@
                             "elmId": "grid",
                             "elmType": "GRID",
                             "elmSubType": "GRID",
-                            "dsgnrId": "wt_tab_064_000000511",
+                            "dsgnrId": "wt_tab_016_000000454",
                             "childs": [
                               {
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000512",
+                                "dsgnrId": "wt_tab_016_000000455",
                                 "childs": [
                                   {
                                     "align": "left",
                                     "elmId": "image",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "IMAGE",
-                                    "dsgnrId": "wt_tab_064_000000513",
+                                    "dsgnrId": "wt_tab_016_000000456",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -132,9 +132,7 @@
                                     "filter": "N",
                                     "maxWidth": "230",
                                     "lovname": "",
-                                    "visible": "Y",
-                                    "id": "image id",
-                                    "classes": "sa"
+                                    "visible": "Y"
                                   }
                                 ],
                                 "responsiveClass": "",
@@ -170,13 +168,13 @@
                             "elmId": "grid",
                             "elmType": "GRID",
                             "elmSubType": "GRID",
-                            "dsgnrId": "wt_tab_064_000000514",
+                            "dsgnrId": "wt_tab_016_000000457",
                             "childs": [
                               {
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000515",
+                                "dsgnrId": "wt_tab_016_000000458",
                                 "childs": [
                                   {
                                     "align": "left",
@@ -186,7 +184,7 @@
                                     "elmId": "text",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "TEXT",
-                                    "dsgnrId": "wt_tab_064_000000516",
+                                    "dsgnrId": "wt_tab_016_000000459",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -252,13 +250,13 @@
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000517",
+                                "dsgnrId": "wt_tab_016_000000460",
                                 "childs": [
                                   {
                                     "elmId": "input",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "INPUT",
-                                    "dsgnrId": "wt_tab_064_000000518",
+                                    "dsgnrId": "wt_tab_016_000000461",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -339,13 +337,13 @@
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000519",
+                                "dsgnrId": "wt_tab_016_000000462",
                                 "childs": [
                                   {
                                     "elmId": "input",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "INPUT",
-                                    "dsgnrId": "wt_tab_064_000000520",
+                                    "dsgnrId": "wt_tab_016_000000463",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -424,13 +422,13 @@
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000521",
+                                "dsgnrId": "wt_tab_016_000000464",
                                 "childs": [
                                   {
                                     "elmId": "input",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "INPUT",
-                                    "dsgnrId": "wt_tab_064_000000522",
+                                    "dsgnrId": "wt_tab_016_000000465",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -509,14 +507,14 @@
                                 "elmId": "cell",
                                 "elmType": "COMPLEX",
                                 "elmSubType": "CELL",
-                                "dsgnrId": "wt_tab_064_000000523",
+                                "dsgnrId": "wt_tab_016_000000466",
                                 "childs": [
                                   {
                                     "align": "left",
                                     "elmId": "button",
                                     "elmType": "SIMPLE",
                                     "elmSubType": "BUTTON",
-                                    "dsgnrId": "wt_tab_064_000000524",
+                                    "dsgnrId": "wt_tab_016_000000467",
                                     "childs": [],
                                     "label": {
                                       "width": {
@@ -634,9 +632,7 @@
                         "custAttrs": [],
                         "paddingTopValue": "5",
                         "maxWidth": "500",
-                        "id": "login_form-edit",
-                        "lovname": "",
-                        "visible": "Y"
+                        "id": "login_form"
                       }
                     ],
                     "variations": "TRANSPARENT",
@@ -669,12 +665,7 @@
                     "maxHeightType": "px",
                     "boxed": "N",
                     "custAttrs": [],
-                    "paddingTopValue": "5",
-                    "lovname": "",
-                    "id": "saassasa",
-                    "visible": "Y",
-                    "popover": "N",
-                    "trigger": "CLICK"
+                    "paddingTopValue": "5"
                   }
                 ],
                 "xStart": "",
@@ -768,6 +759,6 @@
   },
   "description": "",
   "nodename": "login",
-  "tbId": "wt_tab_064_",
+  "tbId": "wt_tab_016_",
   "dynamic": {}
 }
