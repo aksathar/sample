@@ -34,7 +34,7 @@
         "custCols": [],
         "cssRules": [],
         "lovname": "",
-        "id": "RemoteCnlct3",
+        "id": "RemoteCnlctOnly",
         "visible": "Y",
         "gridtype": "FIXED",
         "fixedcolwidth": "grid-box1",
