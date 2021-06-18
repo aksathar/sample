@@ -4,7 +4,7 @@
   "childs": [],
   "tbId": "wt_tab_017_",
   "dynamic": {},
-  "dsgnrIdCntr": 24,
+  "dsgnrIdCntr": 21,
   "header": {
     "elmId": "header",
     "childs": [],
@@ -29,20 +29,20 @@
         "elmId": "grid",
         "elmType": "GRID",
         "elmSubType": "GRID",
-        "dsgnrId": "wt_tab_017_000000022",
+        "dsgnrId": "wt_tab_017_000000019",
         "childs": [
           {
             "elmId": "cell",
             "elmType": "COMPLEX",
             "elmSubType": "CELL",
-            "dsgnrId": "wt_tab_017_000000023",
+            "dsgnrId": "wt_tab_017_000000020",
             "childs": [
               {
                 "align": "left",
                 "elmId": "badge",
                 "elmType": "SIMPLE",
                 "elmSubType": "BADGE",
-                "dsgnrId": "wt_tab_017_000000024",
+                "dsgnrId": "wt_tab_017_000000021",
                 "childs": [],
                 "label": {
                   "width": {
@@ -55,7 +55,7 @@
                 },
                 "custAttrs": [],
                 "lovname": "",
-                "id": "testNew",
+                "id": "loacNewchange",
                 "editable": "N",
                 "visible": "Y",
                 "bindingType": "oneWay",
