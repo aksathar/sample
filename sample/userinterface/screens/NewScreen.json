@@ -2,9 +2,7 @@
   "name": "NewScreen",
   "type": "SCREEN",
   "childs": [],
-  "tbId": "wt_tab_017_",
-  "dynamic": {},
-  "dsgnrIdCntr": 21,
+  "dsgnrIdCntr": 6,
   "header": {
     "elmId": "header",
     "childs": [],
@@ -29,20 +27,20 @@
         "elmId": "grid",
         "elmType": "GRID",
         "elmSubType": "GRID",
-        "dsgnrId": "wt_tab_017_000000019",
+        "dsgnrId": "wt_tab_017_000000004",
         "childs": [
           {
             "elmId": "cell",
             "elmType": "COMPLEX",
             "elmSubType": "CELL",
-            "dsgnrId": "wt_tab_017_000000020",
+            "dsgnrId": "wt_tab_017_000000005",
             "childs": [
               {
                 "align": "left",
                 "elmId": "badge",
                 "elmType": "SIMPLE",
                 "elmSubType": "BADGE",
-                "dsgnrId": "wt_tab_017_000000021",
+                "dsgnrId": "wt_tab_017_000000006",
                 "childs": [],
                 "label": {
                   "width": {
@@ -55,7 +53,7 @@
                 },
                 "custAttrs": [],
                 "lovname": "",
-                "id": "loacNewchange",
+                "id": "loacNewchangedssd",
                 "editable": "N",
                 "visible": "Y",
                 "bindingType": "oneWay",
@@ -97,7 +95,16 @@
             "yStart": "",
             "yEnd": "",
             "cssRules": [],
-            "lovname": ""
+            "lovname": "",
+            "visible": "Y",
+            "heightType": "px",
+            "minHeightType": "px",
+            "maxHeightType": "px",
+            "phoneportrait": "xle-ti-col1",
+            "phonelandscape": "xle-sm-col1",
+            "tablet": "xle-md-col1",
+            "desktop": "xle-lg-col1",
+            "widescreen": "xle-xl-col1"
           }
         ],
         "custCols": [

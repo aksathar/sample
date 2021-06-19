@@ -2,8 +2,6 @@
   "name": "NewScreen1",
   "type": "SCREEN",
   "childs": [],
-  "tbId": "wt_tab_018_",
-  "dynamic": {},
   "dsgnrIdCntr": 30,
   "header": {
     "elmId": "header",
