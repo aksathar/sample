@@ -7,10 +7,5 @@
     "jndiName": "sample",
     "firstScreen": "Login",
     "lang": "en"
-  },
-  "git": {
-    "gitRepoUrl": "https://github.com/aksathar/sample.git",
-    "gitAppName": "sample",
-    "gitBranch": "master"
   }
 }
