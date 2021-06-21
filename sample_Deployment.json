@@ -2,7 +2,7 @@
   "git": {
     "gitRepoUrl": "https://github.com/aksathar/sample.git",
     "gitAppName": "sample",
-    "gitBranch": "master"
+    "gitBranch": "mastert"
   },
   "sample": {
     "name": "sample",
