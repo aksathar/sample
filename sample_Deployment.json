@@ -3,5 +3,7 @@
     "gitRepoUrl": "https://github.com/aksathar/sample.git",
     "gitAppName": "sample",
     "gitBranch": "master4"
+  },
+  "other":{
   }
 }
