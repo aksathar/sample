@@ -2,7 +2,7 @@
   "git": {
     "gitRepoUrl": "https://github.com/aksathar/sample.git",
     "gitAppName": "sample",
-    "gitBranch": "mastert"
+    "gitBranch": "master"
   },
   "sample": {
     "name": "sample",
@@ -11,6 +11,15 @@
     "logPath": "",
     "jndiName": "sample",
     "firstScreen": "Login",
+    "lang": "en"
+  },
+  "Test": {
+    "name": "Test",
+    "uiReq": "Y",
+    "uiType": "EMBEDDED",
+    "logPath": "",
+    "jndiName": "sample",
+    "firstScreen": "NewScreen",
     "lang": "en"
   }
 }
