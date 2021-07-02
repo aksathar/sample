@@ -667,7 +667,11 @@
                     "boxed": "N",
                     "custAttrs": [],
                     "paddingTopValue": "5",
-                    "lovname": ""
+                    "lovname": "",
+                    "id": "qw",
+                    "visible": "Y",
+                    "popover": "N",
+                    "trigger": "CLICK"
                   }
                 ],
                 "xStart": "",
